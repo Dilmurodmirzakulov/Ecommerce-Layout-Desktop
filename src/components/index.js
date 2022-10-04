@@ -1,0 +1,7 @@
+export { default as Footer } from './Footer'
+export { default as Blogs } from './Blogs'
+export { default as Navbar } from './Navbar'
+export { default as Header } from './Header'
+export { default as NavLists } from './NavLists'
+export { default as Facts } from './Facts'
+export { default as Product } from './Product'
